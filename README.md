@@ -1,6 +1,5 @@
 <p align="center">
     <a href="https://github.com/Anirbanrohan/Transactions_processing">
-      <img src="static/techno.ico" alt="Logo" width="80" height="80">
       <h3 align="center">Transactions Processing</h3>
     </a>
   </p>
