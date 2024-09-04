@@ -87,6 +87,3 @@ def search_transactions():
         return render_template("transactions.html",transaction=filtered_transactions)
 
     return render_template("search.html")
-# Run the Flask app
-if __name__ == "__main__":
-    app.run(debug=True,port=8080)
